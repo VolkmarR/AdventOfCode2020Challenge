@@ -11,7 +11,7 @@
 | Klyse | 13 | 0 | C# | [Repo](https://github.com/klyse/AdventOfCode2020) |
 | Johannes F. | 8 | 1 | c#| [Repo]() |
 | Alex S. | 8 | 0 | c# | [Repo]() |
-| Alex U. | 6 | 2 | ? | [Repo]() |
+| Alex U. | 6 | 2 | ? | [Repo](https://github.com/defcore/AoC2020) |
 | VikingWuz | 7 | 0 |  Powershell | [Repo]() |
   
 ## The FH Kufstein professor challenge
